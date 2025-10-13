@@ -1,4 +1,3 @@
-
 # 🎯 Finalisation d’une Maquette et Intégration HTML/CSS
 
 **Durée : 5 jours — Niveaux : C2N1, C3N2**
