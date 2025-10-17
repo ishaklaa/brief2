@@ -97,9 +97,13 @@ body {
 
 .MNn{
       margin-top: 80px;
-    height: 800px;
-    background-image: url(img/valorant-game-3840x2160-18167.jpg);
+    height: 550px;
+    background-image: url(img/Top17PlaysVALORANTMastersToronto-ezgif.com-optimize.gif);
     background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    /* padding-top: 100px; */
     /* background-image: url(img/i1722623608601031.jpeg);
     background-size: contain;
 
@@ -108,6 +112,38 @@ body {
     
 
 }
+.sec-1{
+    width: 350px;
+    padding-top: 80x;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    
+}
+.card1 h3{
+    font-size: 3rem;
+}
+.immg{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+.card1{
+    display: flex;
+    justify-content: space-around;
+    height: 130px;
+    padding-top: 23px;
+    backdrop-filter: blur(25px);
+    transition: all 0.3s ease;
+    
+    
+    border-radius: 10px;
+    
+}
+.card1:hover {
+    transform: translateY(20px);
+    box-shadow: 0 40px 40px rgba(126, 171, 242, 0.2);}
+
 
 .footer {
     background: rgba(10, 10, 15, 0.95);
